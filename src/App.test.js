@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import Apps from './App';
+import App from './App';
 
 // intentional typo in import
 
